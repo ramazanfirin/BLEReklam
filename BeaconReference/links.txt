@@ -1,0 +1,5 @@
+http://stackoverflow.com/questions/25319682/correct-layout-to-detect-kontakt-beacon-on-android-with-altbeacon
+https://altbeacon.github.io/android-beacon-library/javadoc/org/altbeacon/beacon/BeaconParser.html
+http://www.warski.org/blog/2014/01/how-ibeacons-work/
+http://stackoverflow.com/questions/18906988/what-is-the-ibeacon-bluetooth-profile
+http://www.binaryhexconverter.com/hex-to-decimal-converter
